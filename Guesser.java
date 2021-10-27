@@ -65,7 +65,7 @@ public class Guesser{
     // As long as it is not a valid reply (one of "T" and "F")
     // write an error message, and read a new reply.
     // When you have gotten a valid reply, return it.
-    System.out.println("Please input T or F.");
+    System.out.println("Input T or F.");
     String reply = System.console().readLine();
 
     while (!(reply.equalsIgnoreCase("T")) && !(reply.equalsIgnoreCase("F"))) {

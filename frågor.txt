@@ -1,0 +1,18 @@
+När man använder add respektive commit?
+    Man använder add när man vill lägga till filen man jobbar med i staging area.
+    Man använder commit när man vill skicka filen/filerna till sin locala master branch.
+    Commit loggar ändringar vi gör i repository.
+
+Vad är pull respektive push?
+    Pull används för att hämtar branch från GitHub repository och mergar dem med sin lokala repository.
+    Med push skickar vi det vi senast committat från vår lokala repository till GitHub.
+
+När använder man log respektive status?
+    Med git status ser vi hur vårt working och staging area ser ut.
+    Git log visar oss vår commit historia(snapshots). Där kan man också söka efter specifika ändringar vi gjort.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+    Genom ett kort beskrivande meddelande om vad vi har skapat eller ändrat.
+
+
+
